@@ -1,0 +1,54 @@
+/* Color Palette
+# - color 1: 0C134F
+# - color 2: 1D267D
+# - color 3: 5C469C
+# - color 4: D4ADFC
+palette link: https://colorhunt.co/palette/0c134f1d267d5c469cd4adfc
+*/
+
+/* Global styles 
+------------------------------------*/
+body {
+    background-color: #D4ADFC;
+    font-family: "EB Garamond";
+}
+
+h1, h2, h3 {
+    font-family: "Merienda";
+}
+
+h1 {
+    font-size: 3.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+
+img { /*Temporary set so image doesn't become so large*/
+    width: 20%;
+}
+
+/* Header & Footer 
+------------------------------------*/
+header, footer {
+    background-color: #0C134F;
+    color: aqua;
+}
+
+
+/* Work Experience
+------------------------------------*/
+.workExp {
+    background-color: #1D267D;
+    color: aliceblue;
+}
+
+
+/* Education
+------------------------------------*/
+.education {
+    background-color: #5C469C;
+    color: azure;
+}
